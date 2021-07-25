@@ -1,0 +1,39 @@
+.top_margin{
+    margin-top: 2%;
+}
+
+.actualizar{
+    color: #17a2b8 !important;
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent !important;
+    width: 100%;
+}
+
+.actualizar:hover{
+    color: #fff !important;
+    background-color: #17a2b8 !important;
+    border-color: #17a2b8 !important;
+}
+
+.borrar{
+    color: #dc3545 !important;
+    background-color: transparent !important;
+    background-image: none !important;
+    border-color: transparent !important;
+    width: 100%;
+}
+
+.borrar:hover{
+    color: #fff !important;
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+#information_prestamos, #information_monto, #information_plazo table{
+    text-align: center;
+}
+
+#content_amortizacion table{
+    text-align: center;
+}
